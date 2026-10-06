@@ -3,8 +3,6 @@ layout: home
 title: FastAPI for Data Science
 ---
 
-# FastAPI for Data Science
-
 ## From Python Websites to a CSV Data Viewer & Plotter
 
 Learn how to build data-driven web applications using **FastAPI, Pandas, Jinja and Matplotlib**.
