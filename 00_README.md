@@ -3,6 +3,8 @@
 ## From Python Websites to a CSV Data Viewer & Plotter
 
 This tutorial series introduces FastAPI through a practical data-science project.
+Please note, the lessons are very similar if you would Flask, although the added benefit is you have
+the built-in API infrastructure with FastAPI!
 
 ### Learning path
 
