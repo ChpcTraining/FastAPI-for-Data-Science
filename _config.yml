@@ -1,0 +1,9 @@
+title: FastAPI for Data Science
+description: Learn FastAPI through practical data science projects using Pandas and Matplotlib.
+
+theme: minima
+
+markdown: kramdown
+
+header_pages:
+  - index.md
