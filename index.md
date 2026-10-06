@@ -35,6 +35,7 @@ the built-in API infrastructure with FastAPI!
 16. [Creating Your First Plot](16_first_plot.md)
 17. [Letting the User Choose Columns](17_choose_columns.md)
 18. [Final Project — CSV Data Viewer & Plotter](18_final_project.md)
+19. [Creating a Data Science API](19_creating_data_science_api.md)
 
 ---
 
